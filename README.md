@@ -14,7 +14,7 @@
 4. [Screenshots](#screenshots)
 
 <a name="descripton"></a>
-## Description
+## 1. Description
 
 This Project is part of Data Science Nanodegree Program by Udacity in collaboration with Figure Eight. The dataset contains pre-labelled tweet and messages from real-life disaster events. The project aim is to build a Natural Language Processing (NLP) model to categorize messages on a real time basis.
 
@@ -25,7 +25,7 @@ This project is divided in the following key sections:
 3. Run a web app which can show model results in real time
 
 <a name="getting_started"></a>
-## Getting Started
+## 2. Getting Started
 
 <a name="dependencies"></a>
 ### Dependencies
@@ -76,13 +76,13 @@ You can use **ML Pipeline Preparation Notebook** to re-train the model or tune i
 **run.py**: This file can be used to launch the Flask web app used to classify disaster messages
 
 <a name="acknowledgement"></a>
-## Acknowledgements
+## 3. Acknowledgements
 
 * [Udacity](https://www.udacity.com/) for providing an amazing Data Science Nanodegree Program
 * [Figure Eight](https://www.figure-eight.com/) for providing the relevant dataset to train the model
 
 <a name="screenshots"></a>
-## Screenshots
+## 4. Screenshots
 
 1. This is an example of a message we can type to test the performance of the model
 
