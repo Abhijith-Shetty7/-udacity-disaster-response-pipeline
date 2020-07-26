@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
+# Disaster Response Pipeline Project
 
 ![Intro Pic](screenshots/intro.png)
 
@@ -10,10 +10,8 @@
 	2. [Installing](#installation)
 	3. [Executing Program](#execution)
 	4. [Additional Material](#material)
-3. [Authors](#authors)
-4. [License](#license)
-5. [Acknowledgement](#acknowledgement)
-6. [Screenshots](#screenshots)
+3. [Acknowledgement](#acknowledgement)
+4. [Screenshots](#screenshots)
 
 <a name="descripton"></a>
 ## Description
@@ -76,15 +74,6 @@ You can use **ML Pipeline Preparation Notebook** to re-train the model or tune i
 **models/train_classifier.py**: A machine learning pipeline that loads data, trains a model, and saves the trained model as a .pkl file for later use
 
 **run.py**: This file can be used to launch the Flask web app used to classify disaster messages
-
-<a name="authors"></a>
-## Authors
-
-* [Abhijith Shetty](https://github.com/Abhijith-Shetty7)
-
-<a name="license"></a>
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <a name="acknowledgement"></a>
 ## Acknowledgements
