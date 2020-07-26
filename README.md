@@ -7,9 +7,8 @@
 1. [Description](#description)
 2. [Getting Started](#getting_started)
 	1. [Dependencies](#dependencies)
-	2. [Installing](#installation)
-	3. [Executing Program](#execution)
-	4. [Additional Material](#material)
+	2. [Executing Program](#execution)
+	3. [Additional Material](#material)
 3. [Acknowledgement](#acknowledgement)
 4. [Screenshots](#screenshots)
 
@@ -36,12 +35,6 @@ This project is divided in the following key sections:
 * Model Loading and Saving Library: Pickle
 * Web App and Data Visualization: Flask, Plotly
 
-<a name="installation"></a>
-### Installing
-To clone the git repository:
-```
-git clone https://github.com/Abhijith-Shetty7/udacity-disaster-response-pipeline.git
-```
 <a name="execution"></a>
 ### Executing Program:
 1. You can run the following commands in the project's directory to set up the database, train model and save the model.
@@ -106,4 +99,4 @@ You can use **ML Pipeline Preparation Notebook** to re-train the model or tune i
 
 6. Sample run of train_classifier.py with precision, recall etc. for each category
 
-![Train Classifier with Category Level Precision Recall](screenshots/train_classifier_category_precision_recall.png
+![Train Classifier with Category Level Precision Recall](screenshots/train_classifier_category_precision_recall.png)
