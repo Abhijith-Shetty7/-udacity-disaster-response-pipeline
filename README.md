@@ -86,25 +86,25 @@ You can use **ML Pipeline Preparation Notebook** to re-train the model or tune i
 
 1. This is an example of a message we can type to test the performance of the model
 
-<div align=”center”>![Sample Input](screenshots/sample_input.png)</div>
+![Sample Input](screenshots/sample_input.png)</div>
 
 2. After clicking **Classify Message**, we can see the categories which the message belongs to highlighted in green
 
-<div align=”center”>![Sample Output](screenshots/sample_output.png)</div>
+![Sample Output]<div align=”center”>(screenshots/sample_output.png)</div>
 
 3. The main page shows some graphs about training dataset, provided by Figure Eight
 
-<div align=”center”>![Main Page](screenshots/main_page.png)</div>
+![Main Page]<div align=”center”>(screenshots/main_page.png)</div>
 
 4. Sample run of process_data.py
 
-<div align=”center”>![Process Data](screenshots/process_data.png)</div>
+![Process Data]<div align=”center”>(screenshots/process_data.png)</div>
 
 5. Sample run of train_classifier.py
 
-<div align=”center”>![Train Classifier without Category Level Precision Recall](screenshots/train_classifier.png)</div>
+![Train Classifier without Category Level Precision Recall]<div align=”center”>(screenshots/train_classifier.png)</div>
 
 6. Sample run of train_classifier.py with precision, recall etc. for each category
 
-<div align=”center”>![Train Classifier with Category Level Precision Recall](screenshots/train_classifier_category_precision_recall.png)</div>
+![Train Classifier with Category Level Precision Recall]<div align=”center”>(screenshots/train_classifier_category_precision_recall.png)</div>
 
