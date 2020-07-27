@@ -56,7 +56,7 @@ In the **data** and **models** folder you can find two jupyter notebook that wil
 1. **ETL Preparation Notebook**: learn everything about the implemented ETL pipeline
 2. **ML Pipeline Preparation Notebook**: look at the Machine Learning Pipeline developed with NLTK and Scikit-Learn
 
-You can use **ML Pipeline Preparation Notebook** to re-train the model or tune it through a dedicated Grid Search section.
+You can use **ML Pipeline Preparation Notebook** to re-train/tune the model through a dedicated Grid Search.
 
 <a name="importantfiles"></a>
 ### Important Files
