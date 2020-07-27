@@ -19,7 +19,7 @@ This Project is part of Data Science Nanodegree Program by Udacity in collaborat
 
 This project is divided in the following key sections:
 
-1. Processing data, building an ETL pipeline to extract data from source, clean the data and save them in a SQLite DB.
+1. Processing data, building ETL pipeline to extract data from source, clean the data and save them in a SQLite DB.
 2. Build a machine learning pipeline which can classify text message in various categories.
 3. Run a web app which can take user input and show the classified model results in real time.
 
