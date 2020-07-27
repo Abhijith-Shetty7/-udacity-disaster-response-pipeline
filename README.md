@@ -52,7 +52,7 @@ This project is divided in the following key sections:
 <a name="material"></a>
 ### Additional Material
 
-In the **data** and **models** folder you can find two jupyter notebook that will help you understand how the model works step by step:
+In the **data** and **models** folder, the two jupyter notebooks that will help to understand how the model works:
 1. **ETL Preparation Notebook**: learn everything about the implemented ETL pipeline
 2. **ML Pipeline Preparation Notebook**: look at the Machine Learning Pipeline developed with NLTK and Scikit-Learn
 
