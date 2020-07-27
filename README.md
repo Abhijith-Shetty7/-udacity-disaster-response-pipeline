@@ -36,7 +36,7 @@ This project is divided in the following key sections:
 * Web App and Data Visualization: Flask, Plotly
 
 <a name="execution"></a>
-### Executing Program:
+### Executing Program
 1. Run the following commands in project's directory to set up the database, train model and save the model.
     - To run ETL pipeline to clean data and store the processed data in the database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_response_db.db`
