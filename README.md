@@ -40,13 +40,17 @@ This project is divided in the following key sections:
 1. Run the following commands in project's directory to set up the database, train model and save the model.
     - To run ETL pipeline to clean data and store the processed data in the database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_response_db.db`
+	The ETL pipeline is in process_data.py.The next two arguments are input data and the last argument is the SQLite Database in which we want to save the cleaned data. 		DisasterResponse.db already exists in data folder but the above command will still run and replace the file with same information.
+	
     - To run the ML pipeline that loads data from DB, trains classifier and saves the classifier as a pickle file
         `python models/train_classifier.py data/disaster_response_db.db models/classifier.pkl`
+	This will use cleaned data to train the model, improve the model with grid search and saved the model to a pickle file (classifer.pkl). 
+	classifier.pkl already exists but the above command will still run and replace the file will same information.
 
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
+    This will start the web app and will direct you to a URL (http://0.0.0.0:3001/) where you can enter messages and get classification results for it.
 
-3. Go to http://0.0.0.0:3001/
 
 <a name="material"></a>
 ### Additional Material
